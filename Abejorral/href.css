@@ -1,0 +1,153 @@
+
+.barra_inicio {
+background-color:#0a8dad;
+    width: auto;
+    text-align: center
+   
+}
+
+.titulo {
+    color: white;
+    font-size:40px; 
+    font-family:fantasy;
+    font-style: normal
+    
+}
+
+
+
+
+
+
+.jumbotron {
+    background-color:#0a8dad;
+    color:white;
+    background-size: 1400px 800px;
+    border-style: none;
+    margin-left: 100px;
+    margin-right: 100px
+    
+ 
+}
+
+body {
+    background-color:white;
+    background-size:50px;
+}
+
+.my-4 {
+    font-family: fantasy;
+}
+
+.lead {
+    font-family:serif
+}
+
+.descripcion{
+  
+   color: white
+        
+    
+}
+
+.card {
+    border: 0;
+    font-style: italic;
+    font-size: 12
+    
+}
+
+.div{
+    
+    text-align: center
+}
+
+.sub_Titulo {
+    color: black;
+     font-style: oblique;
+    text-align: center
+}
+
+.footer {
+    background-color:#0a8dad;
+    color:white;
+    background-size: 1400px 800px;
+    text-align: center;
+    width:inherit;
+    font-style: oblique
+    
+}
+
+
+.btn-success {
+    background-color: #0a8dad;
+    width: 200px;
+    font-style: oblique
+}
+
+
+
+
+
+h2
+{
+    font-family: fantasy
+}
+
+.card-text {
+    text-align: justify;
+    font-size: 16px
+}
+
+
+
+
+
+
+
+.text-justificaty {
+    color: black;
+    font-style: oblique;
+    font-family: inherit;
+    margin-left:100px;
+    margin-right: 100px
+
+}
+
+
+
+
+
+.text-white {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+div {
+    text-align: center;
+}
+
+
+
+#titulos {
+    text-justify: ;
+}
+
+#carouselExampleControls {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.mb-3 {
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 300px;
+    text-align: center;
+    
+}
+
+.barra_titulo {
+    width: auto;
+    text-align: center
+    
+}
